@@ -24,10 +24,10 @@ https://osa-web.t-cg.co.uk/qatest
 
 ##### Severity: High
 
-##### To access the Test Case
+#### Access the Test Case 
 tests\IrisTest.spec.js
 
-###### To Run the file, use the below command in Visual Code Terminal
+##### To Run the file, use the below command in Visual Code Terminal
 npx playwright test --ui
 - Once executed the command, Playwright Test Runner screen will be open
 - Select the "IrisTest.spec.js" and click Run icon
